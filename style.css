@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(196, 176, 201);
+}
+.container{
+    height: 500px;
+    width:315px;
+    background-color:#a35fa2;
+    position: relative;
+    border-radius: 20px;
+    margin-left: 38%;
+    margin-top: 110px;
+    box-shadow: 0px 0px 10px 8px rgb(124, 65, 158);
+}
+h1{
+    align-items: center;
+    position: absolute;
+    top: 15px;
+    left: 25px;
+    font-size: 1.6rem;
+}
+#generate-btn{
+    align-items: center;
+    position: absolute;
+    top: 90px;
+    left: 70px;
+    background-color:lightskyblue;    
+    border-radius: 18px;
+    border: black;
+}
+img{
+ align-items: center;
+ position: absolute;
+ top: 125px;
+ left: 87px;
+ border-radius: 65px;
+}
+h2{
+    align-items: center;
+    position: absolute;
+    top: 260px;
+    left: 66px;
+}
+#user-name{
+    align-items: center;
+    position: absolute;
+    top: 270px;
+    left: 80px;
+ }
+
+ #user-email{
+    align-items: center;
+    position: absolute;
+    top: 310px;
+    left: 65px;
+ }
+
+ #user-location{
+    align-items: center;
+    position: absolute;
+    top: 340px;
+    left: 75px;
+
+ }
